@@ -1,0 +1,33 @@
+commit 2f41c0a014559eab7bec976e05c9a48569f08de9
+Author: Dogukan Liam Isler <dli23@njit.edu>
+Date:   Tue Feb 3 01:34:11 2026 -0500
+
+    Revert "Adding notes.txt"
+    
+    This reverts commit 7a149fdedbf3d0e938a835dda0085060b8815944.
+
+commit 7a149fdedbf3d0e938a835dda0085060b8815944
+Author: Dogukan Liam Isler <dli23@njit.edu>
+Date:   Tue Feb 3 01:32:39 2026 -0500
+
+    Adding notes.txt
+
+commit eb531d507db8a947f93a7f7447d9e9dc687a7ce9
+Author: Dogukan Liam Isler <dli23@njit.edu>
+Date:   Tue Feb 3 01:31:09 2026 -0500
+
+    Updating hostname with comment
+
+commit 71f56402489f51d70c76fbb88731eb6686afe63c
+Author: Dogukan Liam Isler <dli23@njit.edu>
+Date:   Tue Feb 3 01:12:32 2026 -0500
+
+    Adding comment to os-release
+
+commit c70fc104409cd7693264e340b40fe8a6bd41f225
+Author: Dogukan Liam Isler <dli23@njit.edu>
+Date:   Tue Feb 3 00:59:38 2026 -0500
+
+    Initial commit
+    
+    Initial staring point for the repo
